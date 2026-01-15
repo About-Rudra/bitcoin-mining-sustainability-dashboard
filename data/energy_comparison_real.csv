@@ -1,0 +1,9 @@
+system,energy_kwh,co2_kg,source
+Bitcoin (per transaction),700.0,350.0,Digiconomist 2023
+Visa (per transaction),0.001,0.0005,Visa ESG Report 2022
+Traditional Banking (per $ transaction),0.8,0.4,Galaxy Digital 2021
+Gold Mining (per kg),87500.0,43750.0,World Gold Council 2022
+Bitcoin Mining (per $1M value),190000.0,95000.0,Joule Journal 2021
+YouTube (per hour streaming),0.001,0.0005,Google Sustainability 2022
+Netflix (per hour streaming),0.0008,0.0004,Netflix ESG Report 2022
+Google Search (per query),0.0003,0.00015,Google 2021

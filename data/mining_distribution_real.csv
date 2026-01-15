@@ -1,0 +1,11 @@
+country,country_code,hashrate_share,energy_twh,year
+United States,USA,37.84,45.1,2023
+China,CHN,21.11,25.2,2023
+Kazakhstan,KAZ,13.22,15.8,2023
+Canada,CAN,6.48,7.7,2023
+Russia,RUS,4.66,5.6,2023
+Germany,DEU,4.42,2.9,2023
+Malaysia,MYS,2.1,2.5,2023
+Ireland,IRL,1.69,2.0,2023
+Iran,IRN,0.82,1.0,2023
+Other,OTHER,7.66,9.1,2023
